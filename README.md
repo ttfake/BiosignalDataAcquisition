@@ -1,8 +1,8 @@
 # BiosignalDataAcquisition
 Simple modular biosignal data acquisition software.
 
-This project is intended as a replacement for all of the overly complicated biosignal data acquisition software that 
-currently exists. 
+This project is a work in progress and is at its infancy as of 09 May 2019. It is intended as a replacement for all of the 
+overly complicated biosignal data acquisition software that currently exists. 
 
 For the user:
 The graphical user interface (GUI) will be tab based. The first tab that a user will see upon startup is the system design
