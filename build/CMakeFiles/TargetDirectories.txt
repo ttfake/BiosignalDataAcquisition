@@ -1,0 +1,4 @@
+/home/tim/projects/C_+_+/Qt/BioSigAcquisition/build/CMakeFiles/rebuild_cache.dir
+/home/tim/projects/C_+_+/Qt/BioSigAcquisition/build/CMakeFiles/BioSigAcquisition.dir
+/home/tim/projects/C_+_+/Qt/BioSigAcquisition/build/CMakeFiles/edit_cache.dir
+/home/tim/projects/C_+_+/Qt/BioSigAcquisition/build/CMakeFiles/BioSigAcquisition_autogen.dir
