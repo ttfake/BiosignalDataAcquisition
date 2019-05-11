@@ -15,5 +15,5 @@ For the developer:
 
 The application is written in C++ with the Qt Framework. Most of the tabs will be written in QML so
 that the need to recompile to make changes to the GUI will be minimal. My intent is to give the programmer the freedom to 
-use any programming language that they would like to create additional modules. 
+use any programming language that they would like to create additional modules. This will be accomplished through the use of message queues. At the moment I plan on using RabbitMQ to implement the message queue system.
 
