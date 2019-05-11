@@ -284,6 +284,10 @@ CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QApplication
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QHBoxLayout
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMainWindow
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMenuBar
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QTabWidget
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qaction.h
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qactiongroup.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qapplication.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qboxlayout.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qdesktopwidget.h
@@ -291,6 +295,8 @@ CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayout.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayoutitem.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmainwindow.h
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenu.h
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenubar.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qsizepolicy.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtabwidget.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtwidgets-config.h
@@ -518,6 +524,10 @@ CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QApplication
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QHBoxLayout
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMainWindow
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMenuBar
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QTabWidget
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qaction.h
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qactiongroup.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qapplication.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qboxlayout.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qdesktopwidget.h
@@ -525,6 +535,8 @@ CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayout.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayoutitem.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmainwindow.h
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenu.h
+ /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenubar.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qsizepolicy.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtabwidget.h
  /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtwidgets-config.h

@@ -283,6 +283,10 @@ CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QHBoxLayout
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMenuBar
+CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QTabWidget
+CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qaction.h
+CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qactiongroup.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qapplication.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qdesktopwidget.h
@@ -290,6 +294,8 @@ CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayout.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayoutitem.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenu.h
+CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenubar.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qsizepolicy.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/BioSigAcquisition.dir/src/BioSigAcquisition.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtwidgets-config.h
@@ -517,6 +523,10 @@ CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/incl
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QApplication
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QHBoxLayout
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMainWindow
+CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMenuBar
+CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QTabWidget
+CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qaction.h
+CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qactiongroup.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qapplication.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qboxlayout.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qdesktopwidget.h
@@ -524,6 +534,8 @@ CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/incl
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayout.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qlayoutitem.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmainwindow.h
+CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenu.h
+CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenubar.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qsizepolicy.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtabwidget.h
 CMakeFiles/BioSigAcquisition.dir/src/main.cpp.o: /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtwidgets-config.h

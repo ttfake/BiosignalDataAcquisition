@@ -1,8 +1,10 @@
 #include "../include/BioSigAcquisition.h"
 
 BioSigAcquisition::BioSigAcquisition(QWidget *parent, Qt::WindowFlags flags):
-    centralWidget(new QWidget)
+    centralTabWidget(new QTabWidget)
 {
+    setCentralWidget(centralTabWidget);
+    mainMenuBar = new QMenuBar;
 }
 
 BioSigAcquisition::~BioSigAcquisition()

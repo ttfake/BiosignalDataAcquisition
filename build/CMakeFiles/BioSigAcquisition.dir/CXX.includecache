@@ -15,6 +15,10 @@ QLibrary
 -
 QHBoxLayout
 -
+QTabWidget
+-
+QMenuBar
+-
 
 ../include/AcquisitionTab.h
 QtWidgets/QApplication
@@ -42,6 +46,10 @@ QtWidgets/QMainWindow
 QLibrary
 -
 QHBoxLayout
+-
+QTabWidget
+-
+QMenuBar
 -
 
 ../include/DataAcquisitionDesignTab.h
@@ -1504,9 +1512,39 @@ qboxlayout.h
 qmainwindow.h
 /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmainwindow.h
 
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QMenuBar
+qmenubar.h
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenubar.h
+
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QTabWidget
+qtabwidget.h
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qtabwidget.h
+
 /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/QWidget
 qwidget.h
 /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qwidget.h
+
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qaction.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtGui/qkeysequence.h
+-
+QtCore/qstring.h
+-
+QtWidgets/qwidget.h
+-
+QtCore/qvariant.h
+-
+QtGui/qicon.h
+-
+QtWidgets/qactiongroup.h
+-
+
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qactiongroup.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qaction.h
+-
 
 /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qapplication.h
 QtWidgets/qtwidgetsglobal.h
@@ -1588,6 +1626,24 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qwidget.h
 -
 QtWidgets/qtabwidget.h
+-
+
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenu.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
+QtCore/qstring.h
+-
+QtGui/qicon.h
+-
+QtWidgets/qaction.h
+-
+
+/home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qmenubar.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qmenu.h
 -
 
 /home/tim/Qt/5.12.0/gcc_64/include/QtWidgets/qsizepolicy.h
@@ -1674,6 +1730,10 @@ QtWidgets/QMainWindow
 QLibrary
 -
 QHBoxLayout
+-
+QTabWidget
+-
+QMenuBar
 -
 
 /home/tim/projects/C_+_+/Qt/BioSigAcquisition/include/DataAcquisitionDesignTab.h
